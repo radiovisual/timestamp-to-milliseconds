@@ -1,6 +1,6 @@
 # timestamp-to-seconds [![Build Status](https://travis-ci.org/radiovisual/timestamp-to-milliseconds.svg?branch=master)](https://travis-ci.org/radiovisual/timestamp-to-milliseconds)
 
-> Convert a timestamp string to milliseconds. '00:00:02,345' → 2345
+> Convert a timestamp string to milliseconds. `'00:00:02,345'` → `2345`
 
 
 ## Install
